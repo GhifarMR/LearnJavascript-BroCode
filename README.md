@@ -17,14 +17,19 @@ To open a specific project inside this repository:
 ### ✅ Example
 If your folder name is `Counter-Program`, then access it using:
 
-https://ghifarmr.github.io/Counter-Program/calculator/index.html
+https://ghifarmr.github.io/Counter-Program
 
 ### 🔁 URL Format
-https://ghifarmr.github.io/LearnJavascript-BroCode/<folder-name>/index.html
+https://ghifarmr.github.io/LearnJavascript-BroCode/<folder-name>
 
 Replace `<folder-name>` with the folder you want to open.
 
 ## ✔ Notes
-- Every project folder **must contain an `index.html` file** to load correctly.  
 - Any updates pushed to the repository will automatically update on GitHub Pages.
 
+
+# Direct Link
+1. Counter-Program https://ghifarmr.github.io/Counter-Program/Counter-Program
+2. Random-Number https://ghifarmr.github.io/Counter-Program/Random-Program
+3. Age-Verification https://ghifarmr.github.io/Counter-Program/Age-Verification
+4. Checked-Property https://ghifarmr.github.io/Counter-Program/Checked-Property
