@@ -5,3 +5,24 @@ body {
     padding: 20px;
     text-align: center;
 }
+
+#myInput {
+    padding: 10px 20px;
+    font-size: 20px;
+    
+}
+
+#mySubmit {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#mySubmit:active {
+    background-color: yellow;
+    color: black;
+}
