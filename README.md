@@ -33,3 +33,6 @@ Replace `<folder-name>` with the folder you want to open.
 2. Random-Number https://ghifarmr.github.io/LearnJavascript-BroCode/Random-Program
 3. Age-Verification https://ghifarmr.github.io/LearnJavascript-BroCode/Age-Verification
 4. Checked-Property https://ghifarmr.github.io/LearnJavascript-BroCode/Checked-Property
+5. Guessing-Game https://ghifarmr.github.io/LearnJavascript-BroCode/Guessing-Game
+6. Odd-Even https://ghifarmr.github.io/LearnJavascript-BroCode/Odd-Even
+7. Temperature-Conversion https://ghifarmr.github.io/LearnJavascript-BroCode/Temperature-Conversion
