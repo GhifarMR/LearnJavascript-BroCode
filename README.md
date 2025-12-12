@@ -20,7 +20,7 @@ If your folder name is `Counter-Program`, then access it using:
 https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program/index.html
 
 ### 🔁 URL Format
-https://ghifarmr.github.io/LearnJavascript-BroCode/<folder-name>/index.html
+https://ghifarmr.github.io/LearnJavascript-BroCode/index.html
 
 Replace `<folder-name>` with the folder you want to open.
 
