@@ -17,10 +17,10 @@ To open a specific project inside this repository:
 ### ✅ Example
 If your folder name is `Counter-Program`, then access it using:
 
-https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program
+https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program/index.html
 
 ### 🔁 URL Format
-https://ghifarmr.github.io/LearnJavascript-BroCode/<folder-name>
+https://ghifarmr.github.io/LearnJavascript-BroCode/index.html
 
 Replace `<folder-name>` with the folder you want to open.
 
@@ -30,10 +30,11 @@ Replace `<folder-name>` with the folder you want to open.
 
 # Direct Link
 1. Counter-Program https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program/index.html
-2. Random-Number https://ghifarmr.github.io/LearnJavascript-BroCode/Random-Program/index.html
+2. Random-Number https://ghifarmr.github.io/LearnJavascript-BroCode/Random-Number/index.html
 3. Age-Verification https://ghifarmr.github.io/LearnJavascript-BroCode/Age-Verification/index.html
 4. Checked-Property https://ghifarmr.github.io/LearnJavascript-BroCode/Checked-Property/index.html
 5. Guessing-Game https://ghifarmr.github.io/LearnJavascript-BroCode/Guessing-Game/index.html
 6. Odd-Even https://ghifarmr.github.io/LearnJavascript-BroCode/Odd-Even/index.html
 7. Temperature-Conversion https://ghifarmr.github.io/LearnJavascript-BroCode/Temperature-Conversion/index.html
 8. Dice-Roller https://ghifarmr.github.io/LearnJavascript-BroCode/Dice-Roller/index.html
+9. Password-Generator https://ghifarmr.github.io/LearnJavascript-BroCode/Password-Generator/index.html
