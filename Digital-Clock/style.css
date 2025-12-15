@@ -1,0 +1,18 @@
+body {
+    font-family: monospace;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#clock {
+    font-size: 6.5rem;
+    text-align: center;
+}
