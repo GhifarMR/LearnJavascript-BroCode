@@ -39,3 +39,5 @@ Replace `<folder-name>` with the folder you want to open.
 8. Dice-Roller https://ghifarmr.github.io/JavascriptCourse-BroCode/Dice-Roller/index.html
 9. Password-Generator https://ghifarmr.github.io/JavascriptCourse-BroCode/Password-Generator/index.html
 10. Digital-Clock https://ghifarmr.github.io/JavascriptCourse-BroCode/Digital-Clock/index.html
+11. Stopwatch-Program https://ghifarmr.github.io/JavascriptCourse-BroCode/Stopwatch-Program/index.html
+12. Calculator-Program https://ghifarmr.github.io/JavascriptCourse-BroCode/Calculator-Program/index.html
