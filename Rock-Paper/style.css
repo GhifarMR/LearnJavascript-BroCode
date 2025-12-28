@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  padding: 15px;
+  font-size: 40px;
+  margin: 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  background-color: black;
+}
+
+button:active {
+  background-color: yellow;
+}
+
+#playerDisplay {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#computerDisplay {
+  font-size: 30px;
+}
+
+#resultDisplay {
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#score {
+    margin-top: 10px;
+}
