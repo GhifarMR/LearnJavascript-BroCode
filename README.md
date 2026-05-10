@@ -29,16 +29,16 @@ Replace `<folder-name>` with the folder you want to open.
 
 
 # Direct Link
-1. Counter-Program https://ghifarmr.github.io/JavascriptCourse-BroCode/Counter-Program/index.html
-2. Random-Number https://ghifarmr.github.io/JavascriptCourse-BroCode/Random-Number/index.html
-3. Age-Verification https://ghifarmr.github.io/JavascriptCourse-BroCode/Age-Verification/index.html
-4. Checked-Property https://ghifarmr.github.io/JavascriptCourse-BroCode/Checked-Property/index.html
-5. Guessing-Game https://ghifarmr.github.io/JavascriptCourse-BroCode/Guessing-Game/index.html
-6. Odd-Even https://ghifarmr.github.io/JavascriptCourse-BroCode/Odd-Even/index.html
-7. Temperature-Conversion https://ghifarmr.github.io/JavascriptCourse-BroCode/Temperature-Conversion/index.html
-8. Dice-Roller https://ghifarmr.github.io/JavascriptCourse-BroCode/Dice-Roller/index.html
-9. Password-Generator https://ghifarmr.github.io/JavascriptCourse-BroCode/Password-Generator/index.html
-10. Digital-Clock https://ghifarmr.github.io/JavascriptCourse-BroCode/Digital-Clock/index.html
-11. Stopwatch-Program https://ghifarmr.github.io/JavascriptCourse-BroCode/Stopwatch-Program/index.html
-12. Calculator-Program https://ghifarmr.github.io/JavascriptCourse-BroCode/Calculator-Program/index.html
-13. Touch-Me https://ghifarmr.github.io/JavascriptCourse-BroCode/Touch-Me/index.html
+1. [Counter-Program](https://ghifarmr.github.io/JavascriptCourse-BroCode/Counter-Program/index.html)
+2. [Random-Number](https://ghifarmr.github.io/JavascriptCourse-BroCode/Random-Number/index.html)
+3. [Age-Verification](https://ghifarmr.github.io/JavascriptCourse-BroCode/Age-Verification/index.html)
+4. [Checked-Property](https://ghifarmr.github.io/JavascriptCourse-BroCode/Checked-Property/index.html)
+5. [Guessing-Game](https://ghifarmr.github.io/JavascriptCourse-BroCode/Guessing-Game/index.html)
+6. [Odd-Even](https://ghifarmr.github.io/JavascriptCourse-BroCode/Odd-Even/index.html)
+7. [Temperature-Conversion](https://ghifarmr.github.io/JavascriptCourse-BroCode/Temperature-Conversion/index.html)
+8. [Dice-Roller](https://ghifarmr.github.io/JavascriptCourse-BroCode/Dice-Roller/index.html)
+9. [Password-Generator](https://ghifarmr.github.io/JavascriptCourse-BroCode/Password-Generator/index.html)
+10. [Digital-Clock](https://ghifarmr.github.io/JavascriptCourse-BroCode/Digital-Clock/index.html)
+11. [Stopwatch-Program](https://ghifarmr.github.io/JavascriptCourse-BroCode/Stopwatch-Program/index.html)
+12. [Calculator-Program](https://ghifarmr.github.io/JavascriptCourse-BroCode/Calculator-Program/index.html)
+13. [Touch-Me](https://ghifarmr.github.io/JavascriptCourse-BroCode/Touch-Me/index.html)
